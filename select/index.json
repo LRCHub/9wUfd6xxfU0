@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "オデッセイ",
+  "base_artist": "多次元制御機構よだか",
+  "createdAt": "2026-01-13T20:03:40.939812Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ザ・バース・オブ・ジ・オデッセイ~モンキー・マジック",
+      "artist": "Godiego",
+      "has_synced": false,
+      "path": "select/01_ザ・バース・オブ・ジ・オデッセイ~モンキー・マジック_Godiego.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ザ・バース・オブ・ジ・オデッセイ 〜 モンキー・マジック",
+      "artist": "Godiego",
+      "has_synced": false,
+      "path": "select/02_ザ・バース・オブ・ジ・オデッセイ_〜_モンキー・マジック_Godiego.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "オデッセイ (instrumental)",
+      "artist": "南里侑香",
+      "has_synced": false,
+      "path": "select/03_オデッセイ_(instrumental)_南里侑香.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "オデッセイ",
+      "artist": "南里侑香",
+      "has_synced": false,
+      "path": "select/04_オデッセイ_南里侑香.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "オデッセイ",
+      "artist": "多次元制御機構よだか",
+      "has_synced": false,
+      "path": "select/pl_01_オデッセイ_多次元制御機構よだか.txt"
+    }
+  ]
+}
